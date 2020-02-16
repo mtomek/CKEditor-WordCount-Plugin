@@ -1,4 +1,4 @@
-CKEditor-WordCount-Plugin
+Drupal based library of CKEditor-WordCount-Plugin
 =========================
 
 WordCount Plugin for CKEditor v4 (or above) that counts the words/characters an shows the word count and/or char count in the footer of the editor.
